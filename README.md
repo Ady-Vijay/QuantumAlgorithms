@@ -26,15 +26,6 @@ All simulations are implemented in **NumPy** — no quantum computing framework 
 
 ---
 
-## Related Research
-
-This work connects to my published research in high-energy physics, where stochastic and probabilistic methods play a central role:
-
-- **B. Tallman, A. Vijayakumar, et al.** — *"Potential for Definitive Discovery of a 70 GeV Dark Matter WIMP with Only Second-Order Gauge Couplings"* — Letters in High Energy Physics, LHEP-342 (2023) · [arXiv:2210.15019](https://arxiv.org/abs/2210.15019)
-- **B. Tallman, ..., A. Vijayakumar, et al.** — *"Indirect detection, direct detection, and collider detection cross-sections for a 70 GeV dark matter WIMP"* — Proc. ICHEP 2022 · [arXiv:2210.05380](https://arxiv.org/abs/2210.05380)
-
----
-
 ## Running the notebooks
 
 ```bash
